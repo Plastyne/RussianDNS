@@ -52,5 +52,5 @@ DNS Russian Hacked by Plastyne and Jester </h1>
 0--0------A8--------------------------------------------------8.RU. 345600 IN NS http://government.ru/en/
 0--0------A8--------------------------------------------------8.RU. 345600 IN NS http://government.ru/en/
 </code></pre>
-<p>Clever work folks, possibly the most obscure graffiti out there :)</p>
+<p>Russian intelligence personnel, improve your safety, because we did a good job :)</p>
 <p>Greetz: Plastyne, Jester, NOV3 e Smold3r.</p>
